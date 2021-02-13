@@ -1,0 +1,11 @@
+type: Metals
+name: OhNo
+description: A fragment of Core: Infinity. Has no texture... because it's a ohno.
+color: ffffff
+research: {
+  parent: copper
+  requirements: [
+    lead/500
+    copper/1000
+  ]
+}
