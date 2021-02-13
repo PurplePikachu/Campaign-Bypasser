@@ -3,7 +3,9 @@
 	"name": "Infinitizer",
 	"type": "flying",
 	"description": "Does it defend the Infinity Core from enemies? Yes, and pretty op.",
-  "flying": true,
+	"mineSpeed": 20,
+	"mineTier": 2,
+  	"flying": true,
 	"speed": 3,
 	"hitSize": 370,
 	"rotateSpeed": 1,
@@ -18,7 +20,7 @@
 	"immunities": ["burning", "melting", "freezing", "wet", "muddy", "sapped", "tarred"],
 	"weapons":
 	[{
-		"name": "cleansing",
+		"name": "Whoppin",
 		"top": false,
 		"y": 14,
 		"x": 280,
