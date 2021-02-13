@@ -1,0 +1,15 @@
+type: CoreBlock
+name: "Core: Classic"
+description: "Classic core."
+health: 3000
+armor: 1000
+itemCapacity: 844400
+size: 4
+unitType: Infinitizer
+unitCapModifier: 100000000000
+research: core-foundation
+requirements: [
+ OhNo/100
+]
+category: effect
+alwaysUnlocked: true
