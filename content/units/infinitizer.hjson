@@ -1,11 +1,11 @@
 
 {
 	"name": "Infinitizer",
-	"type": "flying",
+	"type": "mech",
 	"description": "Does it defend the Infinity Core from enemies? Yes, and pretty op.",
 	"mineSpeed": 20,
-	"mineTier": 2,
-  	"flying": true,
+	"mineTier": 4,
+  	"flying": false,
 	"speed": 3,
 	"hitSize": 370,
 	"rotateSpeed": 1,
