@@ -1,15 +1,15 @@
 type: CoreBlock
 name: "Core: Infinity"
-description: "Pretty OP core."
-health: 3000
-armor: 1000
-itemCapacity: 844400
+description: "Now, with the magic of mods, you cannot die."
+health: 2147483647
+armor: 2147483647
+itemCapacity: 2147483647
 size: 4
-unitType: Infinitizer
-unitCapModifier: 100000000000
-research: copper-wall
-requirements: [
- OhNo/100
-]
-category: effect
-alwaysUnlocked: true
+unitType: infinitizer
+unitCapModifier: 2147483647
+research: {
+  parent: copper-wall
+  requirements: [
+    OhNo/100
+  ]
+}
