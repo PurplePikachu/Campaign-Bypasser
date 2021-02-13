@@ -2,7 +2,7 @@ name: "Campaign Bypasser"
 displayName: "Campaign Bypasser"
 author: PurplePikachu
 description: "Makes everything not have difficulty."
-version: "0.6 Alpha"
+version: "0.7 Beta"
 minGameVersion: "120.1"
 dependencies: [ ]
 hidden: false
