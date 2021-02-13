@@ -20,7 +20,7 @@
 	"immunities": ["burning", "melting", "freezing", "wet", "muddy", "sapped", "tarred"],
 	"weapons":
 	[{
-		"name": "Whoppin",
+		"name": "whoppin",
 		"top": false,
 		"y": 14,
 		"x": 280,
