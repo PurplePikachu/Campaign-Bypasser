@@ -1,0 +1,9 @@
+
+type: LiquidSource
+name: Liquid Outputter
+description: "Liquid variant of Outputter. [blue] honestly i am tired of making descriptions[]"
+health: 69420
+category: liquid
+liquidCapacity: 100
+buildVisibility: shown
+alwaysUnlocked: true
