@@ -1,0 +1,8 @@
+
+type: PowerVoid
+name: Void
+description: "Finally! -Needle"
+health: 888
+category: power
+alwaysUnlocked: true
+buildVisibility: shown
