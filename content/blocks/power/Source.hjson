@@ -1,0 +1,12 @@
+
+type: PowerSource
+name: Source
+description: "I am [blue]tired[]"
+health: 100
+maxNodes: 100
+consumesPower: false
+outputsPower: true
+category: power
+buildVisibility: shown
+alwaysUnlocked: true
+ 
