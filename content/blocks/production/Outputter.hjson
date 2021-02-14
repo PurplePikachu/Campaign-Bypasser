@@ -1,0 +1,8 @@
+
+type: ItemSource
+name: Outputter
+description: "Infinite output, no input, no power. Pretty OP."
+health: 2.147
+category: distribution
+buildVisibility: shown
+alwaysUnlocked: true
