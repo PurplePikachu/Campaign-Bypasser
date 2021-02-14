@@ -1,0 +1,7 @@
+type: LiquidVoid
+name: Liquid Inputter
+description: "Liquid Variant of... eugh"
+health: 69696969
+category: liquid
+alwaysUnlocked: true
+buildVisibility: shown
