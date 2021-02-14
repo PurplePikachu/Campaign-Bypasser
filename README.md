@@ -1,4 +1,3 @@
 # Campaign-Bypasser
  Allows you to bypass Campaign pretty easily
- All you need to do to unlock Core: Infinity is by first unlocking something and get 100 oh no.
  
