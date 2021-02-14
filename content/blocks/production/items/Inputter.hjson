@@ -1,0 +1,7 @@
+type: ItemVoid
+name: Inputter
+description: "This thing is more like a Swallower than an Inputter."
+health: 1
+category: distribution
+alwaysUnlocked: true
+buildVisibility: shown
