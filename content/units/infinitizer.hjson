@@ -8,6 +8,7 @@
   	"flying": false,
 	"buildSpeed": 9001,
 	"speed": 3,
+	"commandLimit": 90001
 	"hitSize": 370,
 	"rotateSpeed": 1,
 	"health": 1000000,
