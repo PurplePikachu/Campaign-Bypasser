@@ -2,8 +2,9 @@
 {
 	"name": "Infinitizer",
 	"research": "randomfactory",
-	"type": "mech",
+	"type": "legs",
 	"description": "A literal god.",
+	"legCount": 8,
 	"mineSpeed": 20,
 	"mineTier": 4,
   	"flying": false,
