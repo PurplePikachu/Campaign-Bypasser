@@ -7,11 +7,12 @@ size: 1
 plans: [
   {
     unit: infinitizer
-    time: 1000
+    time: 1
     requirements: [
       copper/1
     ]
   }
+]
 requirements: [
   copper/1
 ]
