@@ -8,9 +8,9 @@
   	"flying": false,
 	"buildSpeed": 9001,
 	"speed": 3,
-	"commandLimit": 90001
+	"commandLimit": 90001,
 	"hitSize": 370,
-	"rotateSpeed": 1,
+	"rotateSpeed": 12,
 	"health": 1000000,
 	"armor": 40274,
 	"mechStepParticles": true,
