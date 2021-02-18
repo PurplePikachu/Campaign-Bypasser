@@ -1,6 +1,7 @@
 
 {
 	"name": "Infinitizer",
+	"research": "randomfactory",
 	"type": "mech",
 	"description": "A literal god.",
 	"mineSpeed": 20,
@@ -65,6 +66,7 @@
 						"hitEffect": "flakExplosion",
 						"splashDamage": 999999999999,
 						"splashDamageRadius": 500
+						
 				}
 		}
 	}]
