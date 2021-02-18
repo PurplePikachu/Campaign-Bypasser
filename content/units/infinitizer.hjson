@@ -2,11 +2,11 @@
 {
 	"name": "Infinitizer",
 	"type": "mech",
-	"description": "Does it defend the Infinity Core from enemies? Yes, and pretty op.",
+	"description": "A literal god.",
 	"mineSpeed": 20,
 	"mineTier": 4,
   	"flying": false,
-	"buildSpeed": 9001,
+	"buildSpeed": 900000001.99,
 	"speed": 3,
 	"commandLimit": 90001,
 	"hitSize": 370,
