@@ -1,0 +1,19 @@
+type: UnitFactory
+name: Random "Factory"
+description: broken stuff
+health: 3000000000
+size: 1
+
+plans: [
+  {
+    unit: infinitizer
+    time: 1000
+    requirements: [
+      copper/1
+    ]
+  }
+requirements: [
+  copper/1
+]
+research: mechanical-drill
+category: units
